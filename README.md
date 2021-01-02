@@ -2,7 +2,7 @@
 
 02-01-2020: Opencore 0.6.4
 
-##Specs: 
+## Specs: 
 
 - CPU: Intel Core i5-10300H 2.5 GHz Quad Core
 - RAM: 8 GB DDR4 2933 MHz (2 x 4GB)
