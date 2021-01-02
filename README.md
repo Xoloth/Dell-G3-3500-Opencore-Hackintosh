@@ -1,6 +1,7 @@
 # Dell-G3-3500-Opencore-Hackintosh
 
 02-01-2020: Opencore 0.6.4
+
 Note: There's no serial information. You need to generate yours and put it there. Set it for MacBookPro16,3
 
 ## Specs: 
