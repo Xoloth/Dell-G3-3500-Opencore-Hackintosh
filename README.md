@@ -1,4 +1,4 @@
-# Dell-G3-3500-Opencore-Hackintosh
+# Dell G3 3500 Opencore Hackintosh
 
 02-01-2020: Opencore 0.6.4
 
