@@ -1,4 +1,4 @@
-# Dell-G3-3500-Opencore-Hackintosh
+# Dell G3 3500 Opencore Hackintosh
 
 Note: There's no SMBIOS info. You need to generate your own serial and change it from config.plist. Set GenSMBIOS for MacBookPro16,3
 
@@ -6,7 +6,9 @@ Note: There's no SMBIOS info. You need to generate your own serial and change it
 
 02-01-2020: Opencore 0.6.4
 
-##Specs: 
+Note: There's no serial information. You need to generate yours and put it there. Set it for MacBookPro16,3
+
+## Specs: 
 
 - CPU: Intel Core i5-10300H 2.5 GHz Quad Core
 - RAM: 8 GB DDR4 2933 MHz (2 x 4GB)
