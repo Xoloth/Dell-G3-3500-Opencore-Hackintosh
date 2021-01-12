@@ -1,5 +1,9 @@
 # Dell-G3-3500-Opencore-Hackintosh
 
+Note: There's no SMBIOS info. You need to generate your own serial and change it from config.plist. Set GenSMBIOS for MacBookPro16,3
+
+12-01-2020: Updated Kexts, Removed NoHybGfx SSDT because it was causing issues on Windows. There is no need to update Opencore to 0.6.5 so its still 0.6.4
+
 02-01-2020: Opencore 0.6.4
 
 ##Specs: 
