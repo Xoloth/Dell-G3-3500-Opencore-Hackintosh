@@ -34,6 +34,7 @@ Note: There's no SMBIOS info. You need to generate your own serial and change it
 - Webcam
 - Sound
 - Touchpad with gestures
+- SD Card Reader
 - iMessage, Facetime etc.
 
 ## What isn't working:
@@ -44,5 +45,4 @@ Note: There's no SMBIOS info. You need to generate your own serial and change it
 
 ## Not tested:
 
-- SD card reader
-- that's all I could think of
+- idk
