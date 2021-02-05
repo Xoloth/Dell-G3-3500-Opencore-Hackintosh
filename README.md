@@ -42,7 +42,7 @@ Note: There's no SMBIOS info. You need to generate your own serial and change it
 ## What isn't working:
 
 - HDMI port (its hardwired to dGPU)
-- Headphone jack (sound is scrambled and it doesn't detect microphone)
+- Headphone jack (sound is scrambled and it doesn't detect microphone(but you can use USB ports for audio input and output))
 - Internal microphone
 
 ## Not tested:
