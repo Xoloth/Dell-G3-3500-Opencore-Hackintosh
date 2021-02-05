@@ -2,9 +2,11 @@
 
 Note: There's no SMBIOS info. You need to generate your own serial and change it from config.plist. Set GenSMBIOS for MacBookPro16,3
 
-12-01-2020: Updated Kexts, Removed NoHybGfx SSDT because it was causing issues on Windows. There is no need to update Opencore to 0.6.5 so its still 0.6.4
+05-02-2021: Updated Kexts and updated OpenCore to 0.6.6. If you try replacing your existing 0.6.4 or 0.6.5 EFI with this one your system wont boot. Follow this guide before updating to 0.6.6. https://dortania.github.io/OpenCore-Post-Install/multiboot/bootstrap.html#prerequisites
 
-02-01-2020: Opencore 0.6.4
+12-01-2021: Updated Kexts, Removed NoHybGfx SSDT because it was causing issues on Windows. There is no need to update Opencore to 0.6.5 so its still 0.6.4
+
+02-01-2021: Opencore 0.6.4
 
 ## Specs: 
 
