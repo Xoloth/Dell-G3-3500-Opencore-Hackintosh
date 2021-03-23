@@ -1,4 +1,6 @@
-# Dell G3 3500 Opencore Hackintosh
+# Dell G3 3500 Opencore Hackintosh [EOL]
+
+Important: I no longer have this device so this project is EOL. Don't expect any updates. Sorry.
 
 Note: There's no SMBIOS info. You need to generate your own serial and change it from config.plist. Set GenSMBIOS for MacBookPro16,3
 
